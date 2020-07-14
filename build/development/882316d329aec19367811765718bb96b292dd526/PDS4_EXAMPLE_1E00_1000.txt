@@ -7,7 +7,7 @@ Configuration:
    LDD Discipline (T/F):  true
    LDD Namespace URL:     http://pds.nasa.gov/pds4/
    LDD URN Prefix:        urn:nasa:pds:
-   Time                   Tue Jul 14 07:24:09 UTC 2020
+   Time                   Tue Jul 14 07:34:55 UTC 2020
    Common Schema          [PDS4_PDS_1E00.xsd]
    Common Schematron      [PDS4_PDS_1E00.sch]
    IM Version Id:         1.14.0.0
@@ -54,7 +54,7 @@ Parsed Input - Attributes:
 
    name                   my_first_attribute
    version                1.14
-   value data type        ASCII_Integer
+   value data type        ASCII_Real
    description            My first attribute 
 
 Parsed Input - Classes:
